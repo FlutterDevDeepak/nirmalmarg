@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "746617671542",
+    "project_id": "nirmal-marg-c4d29",
+    "storage_bucket": "nirmal-marg-c4d29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746617671542:android:91751420d9ea1bf3eb7457",
+        "android_client_info": {
+          "package_name": "com.example.nirmalmarg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746617671542-4dv7qnd2lk8urdup07drr3f0974b8v15.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nirmalmarg",
+            "certificate_hash": "f0e6c08b1f7e7c56a0da99c3b6e49e2fa79fab14"
+          }
+        },
+        {
+          "client_id": "746617671542-mo3et624umr00dcgrf83e5drj4pdsbct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6QiP0zoFNcKuy44N6Myaz5Ypc8KwOafo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746617671542-mo3et624umr00dcgrf83e5drj4pdsbct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
